@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Resolvi fazer esse projeto para revisar e aprender mais sobre flexbox e aprimorar meu conhecimento e habilidade na prática desenvolvendo uma simples landing page.
+Resolvi fazer esse projeto para revisar e aprender mais sobre flexbox e aprimorar meu conhecimento e habilidade na prática desenvolvendo uma simples landing page. Confira o projeto: [Deploy](https://qustavoleite.github.io/flexblog/).
 
 > Desenvolvido no curso de flexbox da Origamid
 
